@@ -1,7 +1,7 @@
-🌤️ Planair – Chat & Plan with Weather in Mind
+<h1>🌤️ Planair – Chat & Plan with Weather in Mind</h1>
 Planair is a mobile chat application built with Flutter and powered by Supabase that helps friends chat and plan outings while checking the weekly weather forecast for any location.
 
-🧩 Features
+<h2>🧩 Features</h2>
 💬 Real-time chat with friends and groups (Supabase backend)
 
 🌦️ Weekly weather forecast via weather API
