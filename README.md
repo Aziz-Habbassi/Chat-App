@@ -1,4 +1,4 @@
-# chatapp_supabase
+# Planair
 
 A new Flutter project.
 
