@@ -15,7 +15,7 @@ Planair is a mobile chat application built with Flutter and powered by Supabase 
 🚀 Why Planair?
 Whether you're organizing a beach trip, a hike, or just a hangout, Planair makes planning easier by putting chat and weather in one place—so you never get rained out again.
 ## Getting Started
-##See presentation with videos and screens here :
+## See presentation with videos and screens here :
 https://www.canva.com/design/DAGoodZfsBs/FW5S45y5RgM3ATGpeAOyUw/view?utm_content=DAGoodZfsBs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h93e72b8e61
 This project is a starting point for a Flutter application.
 before you start you should make your supabase databse and add your key and url . same for service of weather check you should make an account and use your api key
